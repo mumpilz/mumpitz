@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+{% block content %}
+
+<section id="wrapper" class="group">
+	<article class="post">
+		<section id="post-body">
+			{% block body %}
+				This is where the post contents is.
+			{% endblock body %}
+		</section>
+		
+		<!--<footer id="post-meta" class="clearfix">
+			<div><span>Posted on </span> {{ date|date:"M j" }}</div>
+			<div><span>Written by</span> {{ author }}</div>
+
+			<section id="sharing">
+				<a class="twitter" href="https://twitter.com/share"><span class="icon-twitter-circled"></span></a>
+
+				<a class="facebook" href="#" 
+				  onclick="
+				    window.open(
+				      'https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href), 
+				      'facebook-share-dialog', 
+				      'width=626,height=436'); 
+				    return false;"><span class="icon-facebook-circled"></span> 
+				</a>
+			</section>
+		</footer> -->
+	</article>
+</section> 
+
+{% endblock content %}
