@@ -8,7 +8,6 @@
 	width: 80%;
 }
 
-//{}
 .submenu a {
 	text-decoration: none;
 	color: black;
@@ -93,7 +92,7 @@
 	background-image: url("../assets/bannerB.svg");
 	width: 8%;
 	margin-top: -11%;
-  margin-right: -2%;
+	margin-right: -2%;
 }
 
 #bannerC {
@@ -161,7 +160,7 @@
 
 #banner3 .submenu {
 	width: 100%;
-	transform: translateX(-8.5vw) translateY(-13vw);
+	transform: translateX(-7.5vw) translateY(-12vw);
 }
 
 #banner4 {
@@ -197,17 +196,29 @@
 
 #banner5 .submenu {
 	width: 100%;
-	transform: translateX(3vw) translateY(-16vw);
+	transform: translateX(3vw) translateY(-14vw);
 }
 
 #post-body {
+	font-family: mumpitz;
+	font-size: 18pt;
 	clear: both;
 }
 
-.comic-strip, .comic-image {
+#post-body,
+#post-body > * {
+	text-align: center;
+	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	display: block;
+}
+
+#post-body a {
+	text-decoration: none;
+	color: #B404AE;
+}
+
+.comic-strip, .comic-image {
 	max-width: 1000px;
 }
 
