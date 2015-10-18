@@ -34,7 +34,7 @@ def preBuild(site):
 			context_post = {"path": page.path}
 
 			# Check if we have the required keys
-			for field in ["title", "headline", "date", "author"]:
+			for field in ["title", "date", "author"]:
 				
 				if not context.has_key(field):
 					logging.warning("Page %s is missing field: %s" % (page.path, field))
