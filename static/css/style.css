@@ -139,6 +139,7 @@
 .comic-strip, .comic-image {
 	width: 75%;
 	max-width: 1000px;
+	display: block;
 }
 
 .comic-image {
