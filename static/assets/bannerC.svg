@@ -11,23 +11,18 @@
 	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
 ]>
 <svg version="1.1" id="C" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="48.251px"
-	 height="15.281px" viewBox="0 0 48.251 15.281" enable-background="new 0 0 48.251 15.281" xml:space="preserve">
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="48.25px"
+	 height="15.281px" viewBox="0 0 48.25 15.281" enable-background="new 0 0 48.25 15.281" xml:space="preserve">
 <metadata>
 	<sfw  xmlns="&ns_sfw;">
-		<slices>
-			<slice  sliceID="117649" y="385" x="554" height="14" width="12"></slice>
-			<slice  sliceID="134456" y="383" x="568" height="16" width="11"></slice>
-			<slice  sliceID="151263" y="384" x="581" height="14" width="10"></slice>
-			<slice  sliceID="168070" y="384" x="593" height="14" width="10"></slice>
-		</slices>
-		<sliceSourceBounds  y="383" x="554" height="16" width="49" bottomLeftOrigin="true"></sliceSourceBounds>
+		<slices></slices>
+		<sliceSourceBounds  x="225.375" y="242.859" width="48.25" height="15.281" bottomLeftOrigin="true"></sliceSourceBounds>
 	</sfw>
 </metadata>
-<polygon fill="#EEA537" points="10.612,0.595 1.537,0 0.878,7.292 5.196,7.292 5.196,8.707 0.878,8.707 0,13.618 11.417,13.096 
+<polygon fill="#FFFFFF" points="10.612,0.595 1.537,0 0.878,7.292 5.196,7.292 5.196,8.707 0.878,8.707 0,13.618 11.417,13.096 
 	10.026,4.614 4.83,4.316 4.61,2.753 10.026,3.274 "/>
-<polygon fill="#EEA537" points="14.199,0.614 13.614,14.947 18.64,14.947 18.171,9.864 21.093,9.697 21.093,14.947 24.364,15.281 
+<polygon fill="#FFFFFF" points="14.199,0.614 13.614,14.947 18.64,14.947 18.171,9.864 21.093,9.697 21.093,14.947 24.364,15.281 
 	24.364,0.364 20.393,0.364 20.393,6.781 17.938,7.114 18.171,0.03 "/>
-<polygon fill="#EEA537" points="27.001,1.144 27.001,13.75 36.417,14.167 34.955,1.144 "/>
-<polygon fill="#EEA537" points="39.199,14.583 38.584,0.75 48.251,1.156 47.548,7.87 41.924,7.87 41.835,14.583 "/>
+<polygon fill="#FFFFFF" points="27,1.144 27,13.75 36.417,14.167 34.956,1.144 "/>
+<polygon fill="#FFFFFF" points="39.2,14.583 38.584,0.75 48.25,1.156 47.547,7.87 41.924,7.87 41.834,14.583 "/>
 </svg>
