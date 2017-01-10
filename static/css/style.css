@@ -150,7 +150,7 @@
   
   #cloud {
 	background-image: url("../assets/bannerCLOUDmobile.svg");
-	margin-top: 3%;
+	margin-top: 3%
 }
 
 
@@ -171,28 +171,47 @@
   }
   
 
+#bannerA {
+  margin-top: -23%;
+  margin-right: 50%;
+}
 
+
+#bannerB {
+	margin-top: -10%;
+	margin-right: 40%;
+	width: 20%;
+}
+
+#bannerC {	
+	margin-right: 60%;
+}
 
 
   #banner1 {
-    margin-left: 0%;
+    width: 20%;
+    margin-left: 8%;
    
   }
 
   #banner2 {
-    margin-left: 0%;
+    width: 20%;
+    margin-left: 8%;
   }
 
   #banner3 {
-    margin-left: 0%;
+    width: 20%;
+    margin-left: 8%;
   }
 
   #banner4 {
-    margin-left: 0%;
+    width: 20%;
+    margin-left: 8%;
   }
 
   #banner5 {
-    margin-left: 0.5%;
+    width: 20%;
+    margin-left: 8%;
   }
 
   .except {

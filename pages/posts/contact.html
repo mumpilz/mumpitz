@@ -1,0 +1,14 @@
+title: contact
+author: Carla
+date: 16-10-2015
+headline: hello
+
+{% extends "post.html" %}
+{% block body %}
+
+<img class="comic-image" src="{% static 'content/hello_its_me.png' %}"  alt="">
+<a href="mailto:hallo@mumpitz.at" class="comic-image"> <img src="{% static 'content/hello_its_me_link.png' %}"  alt=""></a>
+
+
+
+{% endblock body %}
